@@ -1,0 +1,17 @@
+C:\Users\Vigne\CSharpApiProject\bin\Debug\net7.0\CSharpApiProject.exe
+C:\Users\Vigne\CSharpApiProject\bin\Debug\net7.0\CSharpApiProject.deps.json
+C:\Users\Vigne\CSharpApiProject\bin\Debug\net7.0\CSharpApiProject.runtimeconfig.json
+C:\Users\Vigne\CSharpApiProject\bin\Debug\net7.0\CSharpApiProject.dll
+C:\Users\Vigne\CSharpApiProject\bin\Debug\net7.0\CSharpApiProject.pdb
+C:\Users\Vigne\CSharpApiProject\obj\Debug\net7.0\CSharpApiProject.csproj.AssemblyReference.cache
+C:\Users\Vigne\CSharpApiProject\obj\Debug\net7.0\CSharpApiProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vigne\CSharpApiProject\obj\Debug\net7.0\CSharpApiProject.AssemblyInfoInputs.cache
+C:\Users\Vigne\CSharpApiProject\obj\Debug\net7.0\CSharpApiProject.AssemblyInfo.cs
+C:\Users\Vigne\CSharpApiProject\obj\Debug\net7.0\CSharpApiProject.csproj.CoreCompileInputs.cache
+C:\Users\Vigne\CSharpApiProject\obj\Debug\net7.0\CSharpApiProject.dll
+C:\Users\Vigne\CSharpApiProject\obj\Debug\net7.0\refint\CSharpApiProject.dll
+C:\Users\Vigne\CSharpApiProject\obj\Debug\net7.0\CSharpApiProject.pdb
+C:\Users\Vigne\CSharpApiProject\obj\Debug\net7.0\CSharpApiProject.genruntimeconfig.cache
+C:\Users\Vigne\CSharpApiProject\obj\Debug\net7.0\ref\CSharpApiProject.dll
+C:\Users\Vigne\CSharpApiProject\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Vigne\CSharpApiProject\obj\Debug\net7.0\CSharpApiProject.csproj.CopyComplete
